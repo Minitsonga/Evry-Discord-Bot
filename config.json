@@ -1,0 +1,32 @@
+{
+    "roleList": [
+        {
+            "label": "L1",
+            "description": "Role pour les 1eres années",
+            "id": "883797823777300510"
+        },
+        {
+            "label": "L2",
+            "description": "Role pour les 1eres années",
+            "id": "883797911366942730"
+        },
+        {
+            "label": "L3",
+            "description": "Role pour les 1eres années",
+            "id": "883797935060570122"
+        },
+        {
+            "label": "M1",
+            "description": "Role pour les 1eres années",
+            "id": "883797964055773184"
+        },
+        {
+            "label": "M2",
+            "description": "Role pour les 1eres années",
+            "id": "883798002102337566"
+        }
+    ],
+    "clientId": "883405903884345395",
+    "guildId": "883399724915367966",
+    "token": "ODgzNDA1OTAzODg0MzQ1Mzk1.YTJd3A.trPwswo6TQ5OSIZuIlupxwV_DvI"
+}

@@ -1,0 +1,112 @@
+{
+    "groupList": [
+        {
+            "name": "M2 SA",
+            "code": "68419887"
+        },
+        {
+            "name": "M2 SR",
+            "code": "68419888"
+        },
+        {
+            "name": "M2 MIAGE I.",
+            "code": "68419883"
+        },
+        {
+            "name": "M2 MIAGE A.",
+            "code": "6"
+        },
+        {
+            "name": "M1 G1",
+            "code": "68425740"
+        },
+        {
+            "name": "M1 G2",
+            "code": "68425741"
+        },
+        {
+            "name": "M1 SA",
+            "code": "68426833"
+        },
+        {
+            "name": "M1 SR",
+            "code": "68426834"
+        },
+        {
+            "name": "M1 MIAGE I.",
+            "code": "68419919"
+        },
+        {
+            "name": "M1 MIAGE A.",
+            "code": "68419886"
+        },
+        {
+            "name": "L3 SA",
+            "code": "68419893"
+        },
+        {
+            "name": "L3 SR",
+            "code": "68419892"
+        },
+        {
+            "name": "L3 MIAGE I.",
+            "code": "68419891"
+        },
+        {
+            "name": "L3 MIAGE A.",
+            "code": "7"
+        },
+        {
+            "name": "L3 DOUBLE",
+            "code": "68426751"
+        },
+        {
+            "name": "L2 INFO G1",
+            "code": "68426361"
+        },
+        {
+            "name": "L2 INFO G2",
+            "code": "68426362"
+        },
+        {
+            "name": "L2 INFO G3",
+            "code": "68426891"
+        },
+        {
+            "name": "L2 INFO G4",
+            "code": "68426987"
+        },
+        {
+            "name": "L2 LDD ISDV",
+            "code": "68427400"
+        },
+        {
+            "name": "L1 G1",
+            "code": "18"
+        },
+        {
+            "name": "L1 G2",
+            "code": "8"
+        },
+        {
+            "name": "L1 G3",
+            "code": "68426495"
+        },
+        {
+            "name": "L1 G4",
+            "code": "68426747"
+        },
+        {
+            "name": "L1 G5",
+            "code": "68426748"
+        },
+        {
+            "name": "L1 G6",
+            "code": "68426749"
+        },
+        {
+            "name": "L1 LDD SDVI",
+            "code": "68424877"
+        }
+    ]
+}
